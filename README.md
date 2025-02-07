@@ -11,9 +11,6 @@
 ![SC Proof 13.26.0.43](https://github.com/user-attachments/assets/c1a68c1c-ca6f-45bd-802e-cf055436e0a3)
 ![IG 361 0 0 46 88](https://github.com/user-attachments/assets/9de436e0-dc29-4b58-a50b-660af28e140b)
 
-# [Completed Custom Reverses For Sale]
-- WalaOne (https://play.google.com/store/apps/details?id=com.walaplus.walaplusone)
-
 # [Custom Reverse Services]
 - Websites
 - Android Apps
