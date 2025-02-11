@@ -46,4 +46,4 @@
 - We Do Not Give Non Buyers Free Support
 
 # [Doubt Our Work?]
-- We offer affordable trials (TT/IG/YBO ONLY!)
+- We offer affordable trials (IG ONLY!)
