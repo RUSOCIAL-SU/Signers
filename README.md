@@ -42,7 +42,7 @@
 - Dealing / Giving a Blacklisted Buyer anything used with our services is STRICTLY forbidden you will be blacklisted permanently (Example account with adds / Helping them using our tools)
 
 # Blacklists
-- https://paste.dmca.sh/jotazejafe.less
+- https://paste.dmca.sh/nacatenotu
 
 # [FAQ]
 - Yes Register is working on all signers and does not ban if your flow is proper
