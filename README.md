@@ -19,6 +19,10 @@
 
 # WE ARE CHEAPEST ON MARKET WITH LIMITED SPOTS
 
+# SPOTS LEFT
+- SC 0/10
+- IG 10/10
+
 # [TOS]
 - Do not time waste
 - Do not insult us
