@@ -41,6 +41,10 @@
 - If you have a DEV EXTERNAL SIGNER USAGE HE CANNOT RUN ONLY TEST
 - Dealing / Giving a Blacklisted Buyer anything used with our services is STRICTLY forbidden you will be blacklisted permanently (Example account with adds / Helping them using our tools)
 
+# Work Hours
+M-F // 9AM - 8PM GMT +3 (Work and sales)
+S-S // No Work Only Sales
+
 # Blacklists
 - https://paste.dmca.sh/nacatenotu
 
