@@ -57,6 +57,3 @@ S-S // No Work Only Sales
 
 # [Doubt Our Work?]
 - We offer affordable trials (IG ONLY!)
-
-![ETq1xIB](https://github.com/user-attachments/assets/14bcc48d-72f2-491a-bff9-0f5b18b7b516)
-
