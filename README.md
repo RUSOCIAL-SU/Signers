@@ -5,7 +5,7 @@
 # RUSocial In Business Since 2023 (Experience Since 2018 ;))
 
 # [Social Media Headers] [Native Headers]
-![SC Proof 13.26.0.43](https://github.com/user-attachments/assets/c1a68c1c-ca6f-45bd-802e-cf055436e0a3)
+![SC Proof 13.29.0.49](https://github.com/user-attachments/assets/c1a68c1c-ca6f-45bd-802e-cf055436e0a3)
 ![IG 361 0 0 46 88](https://github.com/user-attachments/assets/9de436e0-dc29-4b58-a50b-660af28e140b)
 
 # Coming Soon For Sale
