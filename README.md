@@ -48,7 +48,7 @@
 - S-S // No Work Only Sales
 
 # Blacklists
-- https://paste.dmca.sh/hacavivenu
+- https://paste.dmca.sh/ojupodokow
 
 # [FAQ]
 - Yes Register is working on all signers and does not ban if your flow is proper
