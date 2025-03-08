@@ -41,7 +41,7 @@
 - Dealing / Giving a Blacklisted Buyer anything used with our services is STRICTLY forbidden you will be blacklisted permanently (Example account with adds / Helping them using our tools)
 
 # Work Hours
-- M-F // 9AM - 8PM GMT +3 (Work and sales)
+- M-F // 9AM - 8PM GMT +3 (Work and Sales)
 - S-S // No Work Only Sales
 
 # Blacklists
