@@ -19,7 +19,7 @@
 # Spring PROMO NEW PEOPLE PAY 1.5k$ FIRST MONTH
 
 # SPOTS LEFT
-- SC 3/10
+- SC 2/10
 - IG 10/10
 
 # [TOS]
