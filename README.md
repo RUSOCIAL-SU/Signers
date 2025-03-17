@@ -26,7 +26,7 @@
 - No illegal content it's STRICTLY forbidden and you will be blacklisted permanently
 - Be Patient we are most likely in a different timezone and we have multiple people with work with daily
 - No Refunds
-- Do Not Attempt To RE (Revere Engineer) Our Products it's STRICTLY forbidden and you will be blacklisted permanently
+- Do Not Attempt To RE (Reverse Engineer) Our Products it's STRICTLY forbidden and you will be blacklisted permanently
 - You will not recieve any Source Code Don't ask
 - Reselling is STRICTLY forbidden and you will be blacklisted permanently (Send them directly to us and recieve a % or extra days/weeks to your sub)
 - Sharing is STRICTLY forbidden and you will be blacklisted permanently (For partners contact us to discuss)
