@@ -6,7 +6,7 @@
 # RUSocial In Business Since 2023 (Experience Since 2018 ;))
 
 # [Social Media Headers] [Native Headers]
-![SC Proof](https://github.com/user-attachments/assets/c1a68c1c-ca6f-45bd-802e-cf055436e0a3)
+![SCPROOF](https://github.com/user-attachments/assets/7d729952-0452-4d98-a4d7-7655d7180ba7)
 ![IG Proof](https://github.com/user-attachments/assets/9de436e0-dc29-4b58-a50b-660af28e140b)
 
 # [Custom Reverse Services]
@@ -44,10 +44,10 @@
 
 # [FAQ]
 - Yes Register is working on all signers and does not ban if your flow is proper
-- We Speak Russian/English
+- We Speak Russian/English/Arabic
 - We Only Accept Crypto Payments at this time
 - We can refuse you service at any time and ban you if you break TOS
-- We Do Not Give Non Buyers Free Support
+- We Do Not Give Non Clients Free Support
 
 # [Doubt Our Work?]
 - We offer affordable trials (IG ONLY!)
