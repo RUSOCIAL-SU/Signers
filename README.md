@@ -58,7 +58,7 @@
 
 # [FAQ]
 - Yes Register is working on all signers and does not ban if your flow is proper
-- We Speak Russian/English/Arabic
+- We Speak Russian/English
 - We Only Accept Crypto Payments at this time
 - We can refuse you service at any time and ban you if you break TOS
 - We Do Not Give Non Clients Free Support
