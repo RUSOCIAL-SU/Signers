@@ -1,7 +1,5 @@
 # NOTICE ONLY CONTACT US BELOW DONT FALL VICTIM TO IMPERSONATORS
 
-# WE ARE RUNNING SPRING PROMO PRICING ENDS APRIL 1ST
-
 # Contact Discord: rusocial (794009760755351593)
 # Official Discord Server https://discord.gg/rusocial
 # Our Site: https://rusocial.io
