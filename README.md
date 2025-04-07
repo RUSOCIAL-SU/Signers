@@ -8,9 +8,10 @@
 # Price
 - 3.5k$ P/M for bots (Web Register Included Starting April 1st)
 - 5k$ P/M for just headers and docs
-- 1k$ Extra For Mobile Register
 - 300$ p/w or 1k$ p/m extra for full fleged cupid AI chatting bot
 
+# Note
+- We now no longer sell Mobile Register to clients we sell accounts only. (Not to randoms only clients...)
 
 # [Example Pictures]
  ![image](https://github.com/user-attachments/assets/a79d290a-f516-4ffc-abb5-d8c6749a6787)
