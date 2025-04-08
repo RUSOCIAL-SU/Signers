@@ -6,7 +6,7 @@
 # RUSocial In Business Since 2023 (Experience Since 2018 ;))
 
 # Price
-- 3.5k$ P/M for bots (Web Register Included Starting April 1st)
+- 3.5k$ P/M for bots (Web Register Included)
 - 5k$ P/M for just headers and docs
 - 300$ p/w or 1k$ p/m extra for full fleged cupid AI chatting bot
 
